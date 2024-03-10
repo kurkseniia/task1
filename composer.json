@@ -1,0 +1,17 @@
+{
+    "name": "kseniia/bootstrap",
+    "require": {
+        "twbs/bootstrap": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kseniia\\Bootstrap\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kurkseniia",
+            "email": "kk@kurcchavova.ru"
+        }
+    ]
+}
